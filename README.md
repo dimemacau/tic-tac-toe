@@ -26,7 +26,9 @@ Each player is either X or O, and takes turns choosing a cell by typing a number
 ```
 g++ ttt.cpp game.cpp -o tic-tac-toe
 ./tic-tac-toe
-```<br/>
+
+```
+<br/>
 
 Make sure you have a C++ compiler like g++.<br/>
 
